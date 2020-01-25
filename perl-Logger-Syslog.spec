@@ -4,7 +4,6 @@
 
 %define		pdir	Logger
 %define		pnam	Syslog
-%include	/usr/lib/rpm/macros.perl
 Summary:	Logger::Syslog -- an intuitive wrapper over Syslog for Perl
 Name:		perl-Logger-Syslog
 Version:	1.1
